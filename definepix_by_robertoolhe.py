@@ -1,4 +1,4 @@
-#sub-Programa que identifica o tipo de chave PIX - by Gazetti
+#sub-Programa que identifica o tipo de chave PIX - by robertoolhe
 
 tam_chave = 0
 chave_valida = False
